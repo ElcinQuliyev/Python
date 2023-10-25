@@ -16,10 +16,13 @@ print(" Hellow World .!")
 
 <br/><br/>
 
-<div style=" display:flex; ">
-<img src="./qr6yp.png" width="350px" height="280px"  />
-<img src="./AdKUV.gif" width="350px" height="200px" />
-
+<div style=" display:flex; gap:20px ">
+<div style="height:300px" >
+<img src="./qr6yp.png" width="100%" height="100%"   />
+</div>
+<div style="height:300px">
+<img src="./AdKUV.gif" width="100%" height="100%" />
+</div>
 </div>
 <br/><br/>
 
