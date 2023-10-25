@@ -35,6 +35,7 @@ print(" Hellow World .!")
   > Django xüsusi strukturu tətbiq edir. O, sizə addım-addım təlimat kitabçası kimi əşyaların hara qoyulacağının planını təqdim edir.<br/>
   > Hazır admin paneli vardır.
   > <br/>
+  > <br/>
 
     <img src="./django-course-thumbnail.jpg" width="45%"  />
     <br/>
