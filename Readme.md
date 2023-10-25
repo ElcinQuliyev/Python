@@ -16,7 +16,7 @@ print(" Hellow World .!")
 
 <br/><br/>
 
-<div style=" display:flex; justif-content:space-between">
+<div style=" display:flex; justify-content: space-between;">
 <img src="./qr6yp.png" width="280px"    />
 <img src="./AdKUV.gif" width="280px"  />
 </div>
