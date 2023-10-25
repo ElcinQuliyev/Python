@@ -20,7 +20,7 @@ print(" Hellow World .!")
 <div style="height:300px" >
 <img src="./qr6yp.png" width="100%" height="100%"   />
 </div>
-<div style="height:300px">
+<div style=" width:300px;  height:300px">
 <img src="./AdKUV.gif" width="100%" height="100%" />
 </div>
 </div>
