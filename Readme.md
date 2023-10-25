@@ -16,9 +16,9 @@ print(" Hellow World .!")
 
 <br/><br/>
 
-<div style=" display:flex; gap:20px ">
-<img src="./qr6yp.png" width="200px"    />
-<img src="./AdKUV.gif" width="200px"  />
+<div style=" display:flex; justif-content:space-between">
+<img src="./qr6yp.png" width="280px"    />
+<img src="./AdKUV.gif" width="280px"  />
 </div>
 </div>
 <br/><br/>
