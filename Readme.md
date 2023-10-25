@@ -34,8 +34,7 @@ print(" Hellow World .!")
 
   > Django xüsusi strukturu tətbiq edir. O, sizə addım-addım təlimat kitabçası kimi əşyaların hara qoyulacağının planını təqdim edir.<br/>
   > Hazır admin paneli vardır.
-  > <br/>
-  > <br/>
+  > <br/> > <br/>
 
     <img src="./django-course-thumbnail.jpg" width="45%"  />
     <br/>
@@ -44,7 +43,7 @@ print(" Hellow World .!")
 
   > Geniş xüsusiyyətləri və konvensiyalarına görə yeni başlayanlar üçün çətin olur,getdikcə öyrənə bilərsiniz.<br/> Bununla belə, mürəkkəb layihələrdə vaxta qənaət edə bilərsiniz.
   > Hazır istifadəçi modeli vardır.
-  > <br/> > <img src="./FUkN4dyaQAIowzZ.jpeg" width="45%"  /> > <br/>
+  > <br/> <br/> <img src="./FUkN4dyaQAIowzZ.jpeg" width="45%"  /> <br/>
 
 - ### Ekosistem:
 
