@@ -35,7 +35,7 @@ print(" Hellow World .!")
   > Django xüsusi strukturu tətbiq edir. O, sizə addım-addım təlimat kitabçası kimi əşyaların hara qoyulacağının planını təqdim edir.<br/>
   > Hazır admin paneli vardır.
 
-<div style=" width:95%; display:flex; height: 370px; gap: 5%; padding:40px  " >
+<div style=" width:95%; display:flex; height: 370px; gap: 10%; padding:40px  " >
 <img src="./django-course-thumbnail.jpg" width="45%"  />
 <img src="./FUkN4dyaQAIowzZ.jpeg" width="45%"  />
 </div>
