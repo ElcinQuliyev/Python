@@ -15,7 +15,13 @@ print(" Hellow World .!")
 ### PyGame Python dilinin kitabxanasıdır. O, 2-D oyunları inkişaf etdirmək üçün istifadə olunur və oyun hazırlamaq üçün bir sıra Python modullarından istifadə edə biləcəyiniz platformadır . Bu, asan başa düşülən və yeni başlayanlar üçün uyğun platformadır ki, sizə oyunları tez bir zamanda inkişaf etdirməyə kömək edə bilər.
 
 <br/><br/>
-<img src="./qr6yp.png" width="350px"   /><br/><br/>
+
+<div style=" display:flex; gap:20px">
+<img src="./qr6yp.png" width="350px"   />
+<img src="./AdKUV.gif" width="350px"   />
+
+</div>
+<br/><br/>
 
 ## Nədir bu Django, öyrənmə və avantajları ?
 
